@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\parkt\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\parkt\\.nuget\\packages"
+    ]
+  }
+}
